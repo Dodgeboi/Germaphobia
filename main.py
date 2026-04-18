@@ -1,14 +1,3 @@
-"""
-GERMOPHOBIA - A 2D Story RPG
-===========================
-Follow MC through a difficult stretch of anxiety, therapy, and gradual progress.
-
-Controls:
-  WASD / Arrow Keys  = Move
-  E / Space / Enter  = Interact / Advance
-  TAB or click gear  = Open settings
-  ESC                = Quit / Close settings
-"""
 
 import math
 import os
